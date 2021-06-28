@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - Seoul High School(2012.03 ~ 2014.02)
 - Yonsei University(2014.03 ~ 2021.02) - Chemical & Biomolecular Engineering
 - Samsung SW Academy for Youth(2021.01 ~)
+
+
+
 ![rhyuys115's github stats](https://github-readme-stats.vercel.app/api?username=rhyuys115&show_icons=true)
