@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Samsung SW Academy for Youth 5th (2021.01 ~)
 
 ### 📌 Statistics
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyuys115)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyuys115)](https://github.com/anuraghazra/github-readme-stats)
 ![rhyuys115's github stats](https://github-readme-stats.vercel.app/api?username=rhyuys115&theme=tokyonight&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhyuys115)](https://solved.ac/rhyuys115)
