@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyuys115)](https://github.com/anuraghazra/github-readme-stats) -->
-![rhyuys115's github stats](https://github-readme-stats.vercel.app/api?username=rhyuys115&theme=merko&show_icons=true)
+![rhyuys115's github stats](https://github-readme-stats.vercel.app/api?username=rhyuys115&theme=gruvbox&show_icons=true)
