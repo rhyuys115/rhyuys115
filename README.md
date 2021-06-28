@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💻 Languages & Skills
+### 🛠️ Tech Stacks 🛠️
+
 
 ### 📝 Education
 - Seoul High School (2012.03 ~ 2014.02)
