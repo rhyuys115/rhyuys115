@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ### 💻 Languages & Skills
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhyuys115)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyuys115)](https://github.com/anuraghazra/github-readme-stats)
 ![rhyuys115's github stats](https://github-readme-stats.vercel.app/api?username=rhyuys115&show_icons=true)
