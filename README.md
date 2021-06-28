@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ### 💻 Languages & Skills
 
 ### 📌 Statistics
+[![https://solved.ac/profile/rhyuys115](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyuys115)](https://github.com/anuraghazra/github-readme-stats) -->
 ![rhyuys115's github stats](https://github-readme-stats.vercel.app/api?username=rhyuys115&theme=tokyonight&show_icons=true)
