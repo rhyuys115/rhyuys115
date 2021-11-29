@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 📝 Education
 - Seoul High School (2012.03 ~ 2014.02)
 - Yonsei University - Chemical & Biomolecular Engineering (2014.03 ~ 2021.02)
-- Samsung SW Academy for Youth 5th (2021.01 ~)
+- Samsung SW Academy for Youth 5th (2021.01 ~ 2021.11)
 
 ### 📌 Statistics
 
