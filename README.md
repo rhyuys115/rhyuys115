@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🛠️ Tech Stacks 🛠️
+<h3 align="center">🛠️ Tech Stacks 🛠️</h3>
 
 
-### 📝 Education
+  <h3 align="center">📝 Education</h3>
 - Seoul High School (2012.03 ~ 2014.02)
 - Yonsei University - Chemical & Biomolecular Engineering (2014.03 ~ 2021.02)
 - Samsung SW Academy for Youth 5th (2021.01 ~ 2021.11)
 
-### 📌 Statistics
+  <h3 align="center">📌 Statistics</h3>
 
 ![rhyuys115's github stats](https://github-readme-stats.vercel.app/api?username=rhyuys115&theme=tokyonight&show_icons=true)
 <br>
